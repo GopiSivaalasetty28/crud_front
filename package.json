@@ -2,6 +2,7 @@
   "name": "front-crudapp",
   "private": true,
   "version": "0.0.0",
+  "homepage": "/crud_front",
   "type": "module",
   "scripts": {
     "dev": "vite",
